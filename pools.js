@@ -33,3 +33,31 @@ const rewardToken = "0x6a0b66710567b6beb81A71F7e9466450a91a384b" // PEX
 const masterChefPancake = "0x73feaa1eE314F8c655E354234017bE2193C9E24E" ;
 const pancakeRouter = "0x10ED43C718714eb63d5aA57B78B54704E256024E";
 const pancakePID = 520;
+
+// >>> GMT-USDC (pancake)
+  const cakePair = "0x007EC643C7Cc33a70C083fC305c283dd009C8b94" // GMT-USDC
+  const rewardToken = "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1" // GMT
+  const masterChefPancake = "0x73feaa1eE314F8c655E354234017bE2193C9E24E" ;
+  const pancakeRouter = "0x10ED43C718714eb63d5aA57B78B54704E256024E";
+  const pancakePID = 514;
+
+  // >>> ERA-WBNB (pancake)
+  const cakePair = "0x53a63ac301D6410915385294527f947aFf616599" // ERA-WBNB
+  const rewardToken = "0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9" // ERA
+  const masterChefPancake = "0x73feaa1eE314F8c655E354234017bE2193C9E24E" ;
+  const pancakeRouter = "0x10ED43C718714eb63d5aA57B78B54704E256024E";
+  const pancakePID = 513;
+
+  // >>> CAKE-USDT (pancake)
+  const cakePair = "0xA39Af17CE4a8eb807E076805Da1e2B8EA7D0755b" // CAKE-USDT
+  const rewardToken = "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82" // CAKE
+  const masterChefPancake = "0x73feaa1eE314F8c655E354234017bE2193C9E24E" ;
+  const pancakeRouter = "0x10ED43C718714eb63d5aA57B78B54704E256024E";
+  const pancakePID = 422;
+
+  // >>> CHESS-USDC (pancake)
+  const cakePair = "0x1472976E0B97F5B2fC93f1FFF14e2b5C4447b64F" // CHESS-USDC
+  const rewardToken = "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6" // CHESS
+  const masterChefPancake = "0x73feaa1eE314F8c655E354234017bE2193C9E24E" ;
+  const pancakeRouter = "0x10ED43C718714eb63d5aA57B78B54704E256024E";
+  const pancakePID = 429;
