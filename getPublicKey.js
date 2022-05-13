@@ -1,13 +1,13 @@
 const {ethers} = require("hardhat")
 
 
-const contractAddress = < Contract address >
-const abi = < Contract ABI >
+const contractAddress = "<Contract address>"
+const abi = "<Contract ABI>"
 
 const main = async () => {
 
     const txFirst = await ethers.provider.getTransaction(
-        < Transaction hash >
+        "<Transaction hash>"
     )
 
     const txData = {
